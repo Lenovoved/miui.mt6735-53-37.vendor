@@ -1,0 +1,1 @@
+# miui.mt6735-53-37.vendor
